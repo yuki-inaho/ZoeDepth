@@ -148,3 +148,5 @@ dmypy.json
 .pyre/
 
 pyproject.toml
+*.png
+*.jpg
