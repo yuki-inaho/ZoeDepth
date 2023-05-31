@@ -1,0 +1,11 @@
+torch
+torchvision
+h5py
+matplotlib
+numpy
+scipy
+huggingface-hub
+timm==0.6.7  #https://github.com/isl-org/ZoeDepth/issues/26
+tqdm
+wandb
+chardet
